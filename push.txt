@@ -1,0 +1,6 @@
+SetUp 
+=> Create a repo using add button on gitHub.com
+=> git clone repolink (what u copy in github clone url)
+=> git clone 
+=> cd repo name (what u create a name of repo)
+=> 
